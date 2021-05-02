@@ -44,3 +44,10 @@ Just visit ```localhost:8000``` and the game should be up.
 If you would like to change anything in the project, visit the "config" folder and you can change the variables. For now, don't change the port the server runs on because the fetch requests that are in the html file aren't suited for ports other than port 8000.
 
 However, you CAN change it so that you can make the model train for a certain amount of generations OR a certain accuracy. Keep in mind that the "certain accuracy" version takes a lot more time.
+
+
+
+## Future Updates
+
+
+In the future, I'm looking to convert the Python training to C++ training, since C++ executes faster which will allow for more generations.
