@@ -36,3 +36,6 @@ Start the web server:
 ```
 node index.js
 ```
+
+
+Just visit ```localhost:8000``` and the game should be up.
